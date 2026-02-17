@@ -38,7 +38,7 @@ const BookingForm = () => {
             </div>
             <div className="booking-contact-item">
               <Mail size={20} className="icon" />
-              <span>support@greentechfix.com</span>
+              <span>support@Kota-tech fix.com</span>
             </div>
             <div className="booking-contact-item">
               <MapPin size={20} className="icon" />

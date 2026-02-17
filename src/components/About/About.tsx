@@ -24,7 +24,7 @@ const About = () => {
               Your Trusted Tech <span className="highlight">Repair Partner</span>
             </h2>
             <p>
-              GreenTech Fix is a leading door-to-door computer and laptop repair service
+              Kota-tech  Fix is a leading door-to-door computer and laptop repair service
               committed to providing fast, reliable, and affordable tech support right at
               your doorstep. We understand how important your devices are to your daily
               life and work.

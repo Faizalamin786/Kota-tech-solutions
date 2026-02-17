@@ -38,7 +38,7 @@ const Contact = () => {
               <div className="contact-icon-circle"><Mail size={20} /></div>
               <div className="contact-item-text">
                 <h4>Email</h4>
-                <p>support@greentechfix.com</p>
+                <p>support@Kota-tech fix.com</p>
               </div>
             </div>
             <div className="contact-item">

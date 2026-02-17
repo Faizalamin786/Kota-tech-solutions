@@ -67,7 +67,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-image">
-          <img src={heroLaptop} alt="Laptop with circuit board lines — GreenTech Fix repair service" />
+          <img src={heroLaptop} alt="Laptop with circuit board lines — Kota-tech  Fix repair service" />
         </div>
       </div>
 

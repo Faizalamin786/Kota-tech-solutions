@@ -8,7 +8,7 @@ const Footer = () => (
         <div>
           <div className="footer-logo">
             <Cpu size={22} className="logo-icon" />
-            <span><span className="green">Green</span>Tech Fix</span>
+            <span><span className="green">Kota</span>Tech Fix</span>
           </div>
           <p className="footer-desc">
             Your trusted door-to-door computer and laptop repair service. Fast, reliable,
@@ -42,7 +42,7 @@ const Footer = () => (
           <h4 className="footer-heading">Contact Info</h4>
           <ul className="footer-links">
             <li><a href="tel:+919898989898">+91 98XXX XXXXX</a></li>
-            <li><a href="mailto:support@greentechfix.com">support@greentechfix.com</a></li>
+            <li><a href="mailto:support@Kota-tech fix.com">support@Kota-tech fix.com</a></li>
             <li><a href="#contact">[Your City], India</a></li>
             <li><a href="#contact">Mon–Sun, 9AM–9PM</a></li>
           </ul>
@@ -58,7 +58,7 @@ const Footer = () => (
       </div>
 
       <div className="footer-bottom">
-        <span>© 2024 GreenTech Fix. All rights reserved.</span>
+        <span>© 2024 Kota-tech  Fix. All rights reserved.</span>
         <div className="footer-bottom-links">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>

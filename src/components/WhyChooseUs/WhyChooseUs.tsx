@@ -20,7 +20,7 @@ const WhyChooseUs = () => {
         <div className="animate-on-scroll" style={{ textAlign: 'center' }}>
           <div className="section-tag">{'// WHY CHOOSE US'}</div>
           <h2 className="section-title">
-            Why <span className="highlight">GreenTech Fix</span>?
+            Why <span className="highlight">Kota-tech  Fix</span>?
           </h2>
           <p className="section-subtitle" style={{ marginLeft: 'auto', marginRight: 'auto' }}>
             We're not just another repair service. Here's what sets us apart.
