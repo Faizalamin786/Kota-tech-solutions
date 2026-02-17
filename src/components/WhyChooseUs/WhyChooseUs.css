@@ -1,0 +1,63 @@
+.why-section {
+  padding: var(--section-padding);
+  background: var(--bg-secondary);
+}
+
+.why-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 48px;
+}
+
+.why-card {
+  background: var(--bg-card);
+  backdrop-filter: var(--backdrop-blur);
+  -webkit-backdrop-filter: var(--backdrop-blur);
+  border: 1px solid var(--neon-green-border);
+  border-radius: var(--card-radius);
+  padding: 32px;
+  transition: all var(--transition-normal);
+  position: relative;
+  overflow: hidden;
+}
+
+.why-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 40px;
+  background: var(--neon-green);
+  border-radius: 0 0 3px 0;
+}
+
+.why-card:hover {
+  border-color: var(--neon-green);
+  transform: translateY(-8px);
+  box-shadow: var(--glow-medium);
+}
+
+.why-card .why-icon {
+  color: var(--neon-green);
+  margin-bottom: 20px;
+}
+
+.why-card h3 {
+  font-size: 18px;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+.why-card p {
+  font-size: 14px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .why-grid {
+    grid-template-columns: 1fr;
+  }
+}
