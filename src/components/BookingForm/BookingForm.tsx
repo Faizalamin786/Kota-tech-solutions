@@ -30,19 +30,19 @@ const BookingForm = () => {
             <h3>Get in Touch</h3>
             <div className="booking-contact-item">
               <Phone size={20} className="icon" />
-              <span>+91 98XXX XXXXX</span>
+              <span>+91 90796 96443</span>
             </div>
             <div className="booking-contact-item">
               <MessageCircle size={20} className="icon" />
-              <span>WhatsApp: +91 98XXX XXXXX</span>
+              <span>WhatsApp: +91 90796 96443</span>
             </div>
             <div className="booking-contact-item">
               <Mail size={20} className="icon" />
-              <span>support@Kota-tech fix.com</span>
+              <span>kotatechsolutions@gmail.com</span>
             </div>
             <div className="booking-contact-item">
               <MapPin size={20} className="icon" />
-              <span>[Your City], India</span>
+              <span>Kota (Rajasthan), India</span>
             </div>
             <div className="booking-contact-item">
               <Clock size={20} className="icon" />

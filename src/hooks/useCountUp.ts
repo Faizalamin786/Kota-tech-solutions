@@ -16,7 +16,8 @@ export const useCountUp = (target: number, duration = 2000) => {
               const elapsed = currentTime - startTime;
               const progress = Math.min(elapsed / duration, 1);
               const eased = 1 - Math.pow(1 - progress, 3);
-              setCount(Math.floor(eased * target));
+              const value = eased * target;
+              setCount(parseFloat(value.toFixed(2)));
               if (progress < 1) {
                 requestAnimationFrame(animate);
               }

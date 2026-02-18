@@ -1,6 +1,7 @@
 import {
   Monitor, Laptop, ShieldCheck, Settings, HardDrive,
-  MemoryStick, Wifi, Printer, FileCheck, Cpu, ArrowRight,
+  MemoryStick, Wifi, Printer, Cpu, ArrowRight,
+  Cctv,
 } from 'lucide-react';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 import './Services.css';
@@ -10,11 +11,13 @@ const services = [
   { icon: Monitor, title: 'Desktop Repair', desc: 'Hardware diagnostics, component replacement, and full system repair.' },
   { icon: ShieldCheck, title: 'Virus Removal', desc: 'Malware cleanup, antivirus installation, and security hardening.' },
   { icon: Settings, title: 'OS Installation', desc: 'Windows, Linux, and macOS fresh installation and setup.' },
+  { icon: Cctv, title: 'CCTV Camera', desc: 'Advanced surveillance systems for homes, businesses, and offices.' },
   { icon: HardDrive, title: 'Data Recovery', desc: 'Recover lost or deleted files from damaged or corrupted drives.' },
   { icon: MemoryStick, title: 'Hardware Upgrade', desc: 'RAM, SSD, HDD, and GPU upgrades for better performance.' },
   { icon: Wifi, title: 'Network Setup', desc: 'WiFi configuration, router setup, and LAN troubleshooting.' },
   { icon: Printer, title: 'Printer Repair', desc: 'Printer installation, troubleshooting, and regular maintenance.' },
-  { icon: FileCheck, title: 'AMC Plans', desc: 'Annual maintenance contracts for businesses and offices.' },
+ 
+
   { icon: Cpu, title: 'Custom PC Build', desc: 'Build your dream gaming or workstation PC with expert guidance.' },
 ];
 

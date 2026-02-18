@@ -20,7 +20,7 @@ const Stats = () => (
         <StatItem icon={Users} target={5000} suffix="+" label="Happy Customers" />
         <StatItem icon={Award} target={8} suffix="+" label="Years Experience" />
         <StatItem icon={Wrench} target={50} suffix="+" label="Expert Technicians" />
-        <StatItem icon={Star} target={49} suffix="★" label="Google Rating" />
+        <StatItem icon={Star} target={4.79} suffix="★" label="Google Rating" />
       </div>
     </div>
   </section>

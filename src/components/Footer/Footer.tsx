@@ -41,9 +41,9 @@ const Footer = () => (
         <div>
           <h4 className="footer-heading">Contact Info</h4>
           <ul className="footer-links">
-            <li><a href="tel:+919898989898">+91 98XXX XXXXX</a></li>
-            <li><a href="mailto:support@Kota-tech fix.com">support@Kota-tech fix.com</a></li>
-            <li><a href="#contact">[Your City], India</a></li>
+            <li><a href="tel:+919898989898">+91 90796 96443</a></li>
+            <li><a href="mailto:kotatechsolutions@gmail.com">kotatechsolutions@gmail.com</a></li>
+            <li><a href="#contact">Kota (Rajasthan), India</a></li>
             <li><a href="#contact">Mon–Sun, 9AM–9PM</a></li>
           </ul>
         </div>
