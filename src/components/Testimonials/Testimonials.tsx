@@ -6,9 +6,9 @@ const testimonials = [
   { name: 'Rahul Sharma', location: 'Mahaveer Nagar 3 , Kota', initials: 'RS', text: 'Amazing service! The technician arrived within 2 hours and fixed my laptop screen perfectly. Highly recommend Kota-tech  Fix for anyone needing quick repairs.' },
   { name: 'Priya Patel', location: 'Indiranagar, Bundi', initials: 'PP', text: 'My desktop was infected with a nasty virus. The team cleaned it up completely and installed a proper antivirus. Very professional and affordable!' },
   { name: 'Amit Kumar', location: 'Indira Vigar, kota', initials: 'AK', text: 'Got my old laptop upgraded with SSD and extra RAM. It runs like new! The technician explained everything clearly. Great transparent pricing.' },
-  { name: 'Sneha Reddy', location: 'Vigyan nagar, Kota', initials: 'SR', text: 'I was worried about my data when my hard drive crashed. Kota-tech  Fix recovered all my important files. Absolute lifesavers!' },
+  { name: 'Sneha meena', location: 'Vigyan nagar, Kota', initials: 'SR', text: 'I was worried about my data when my hard drive crashed. Kota-tech  Fix recovered all my important files. Absolute lifesavers!' },
   { name: 'Vikram Singh', location: 'Mala road, Kota', initials: 'VS', text: 'Booked via WhatsApp, technician came same day. Fixed my MacBook keyboard issue at my home. No Fix No Fee policy gave me confidence.' },
-  { name: 'Deepa Nair', location: 'Akashwani, Kota', initials: 'DN', text: 'We signed up for the AMC plan for our small office. Best decision ever — they handle all our IT issues promptly. Very reliable team.' },
+  { name: 'Faizal khan', location: 'Akashwani, Kota', initials: 'DN', text: 'We signed up for the AMC plan for our small office. Best decision ever — they handle all our IT issues promptly. Very reliable team.' },
 ];
 
 const Testimonials = () => {
