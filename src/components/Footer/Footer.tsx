@@ -58,7 +58,7 @@ const Footer = () => (
       </div>
 
       <div className="footer-bottom">
-        <span>© 2024 Kota-tech  Fix. All rights reserved.</span>
+        <span>© 2024 Kota-tech  Solution. All rights reserved.</span>
         <div className="footer-bottom-links">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>

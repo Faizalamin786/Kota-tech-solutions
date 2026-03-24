@@ -46,7 +46,7 @@ const Navbar = () => {
         <div className="container">
           <div className="nav-logo" onClick={() => handleNavClick('#home')}>
             <Cpu size={24} className="logo-icon" />
-            <span><span className="green">Kota</span>Tech Fix</span>
+            <span><span className="green">Kota</span>Tech Solutions</span>
           </div>
 
           <ul className="nav-links">
